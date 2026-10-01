@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
-<h4 align="center"><a href="https://.vercel.app">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://portif-lio-benildo.vercel.app">Confira o projeto aqui</a></h4>
 
 ---
 
@@ -46,7 +46,7 @@ Neste projeto apliquei os seguintes pontos:
       <img src="https://github.com/lucyanovidio.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/lucyanovidio">Benildo dinis.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/benildodinis987-png">Benildo dinis.</a> 🙋🏿‍♂️
     </td>
   </tr>
 </table>
